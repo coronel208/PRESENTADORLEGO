@@ -1,0 +1,198 @@
+{
+  "version": 3,
+  "name": "Titan Force",
+  "cloudinaryBase": "",
+  "modelUrl": "PEGAR_URL_GITHUB_RELEASES_AQUI",
+  "components": [],
+  "labels": [
+    {
+      "id": "puerto-de-conexión-1775788928808",
+      "nombre": "Puerto de Conexión",
+      "descripcion": "El inventor 51515-1, cuenta con 6 puertos externos de conexión, generalmente para los 4 motores y 2 sensores de color externos ya que el sistema cuenta con un giroscopio interno que detecta los giros en cualquiera de los ejes.",
+      "video": "",
+      "posicion": "-0.2511 0.1557 -0.0562",
+      "group": "grp-1775788159623",
+      "visible": false
+    },
+    {
+      "id": "botón-desplazamiento-izquierdo-1775789080592",
+      "nombre": "Botón Desplazamiento Izquierdo",
+      "descripcion": "Se utiliza para ejecutar la misión actual de pantalla (1, 2, etc)",
+      "video": "",
+      "posicion": "-0.0845 0.1573 -0.1320",
+      "group": "grp-1775788159623",
+      "visible": false
+    },
+    {
+      "id": "botón-on/off-1775789104709",
+      "nombre": "Botón On/Off",
+      "descripcion": "Botón de encender y apagar el robot, se debe dejar presionado unos segundos.",
+      "video": "",
+      "posicion": "-0.1348 0.1557 -0.1246",
+      "group": "grp-1775788159623",
+      "visible": false
+    },
+    {
+      "id": "botón-desplazamiento-derecho-1775789137621",
+      "nombre": "Botón Desplazamiento Derecho",
+      "descripcion": "Se utiliza para ubicar la misión actual de pantalla (1, 2, etc)",
+      "video": "",
+      "posicion": "-0.1914 0.1573 -0.1241",
+      "group": "grp-1775788159623",
+      "visible": false
+    },
+    {
+      "id": "botón-bluetooth-1775789153276",
+      "nombre": "Botón Bluetooth",
+      "descripcion": "Se activa para enlazar o conectar el robot con el computador desde donde se programa.",
+      "video": "",
+      "posicion": "-0.2008 0.1573 0.1275",
+      "group": "grp-1775788159623",
+      "visible": false
+    },
+    {
+      "id": "puntos-de-anclaje-1775833201395",
+      "nombre": "Puntos de Anclaje",
+      "descripcion": "Tecnología axle que proporcionan un soporte adicional para que los mecanismos puestos sobre el robot y que resuelven las misiones tengan un punto de ancla adicional que impiden que los mecanismos puestos sobre el robot queden sueltos y comprometan la eficiencia de los engranajes.",
+      "video": "",
+      "posicion": "0.1831 0.2460 0.0333",
+      "group": "grp-1775788170865",
+      "visible": false
+    },
+    {
+      "id": "plataforma-1775833217340",
+      "nombre": "Plataforma",
+      "descripcion": "Estructura en forma de plataforma la cual sirve de interfaz entre el robot y los mecanismos que resuelven las misiones (en esta plataforma se apoyan y acoplan los mecanismos que resuelven las misiones)",
+      "video": "",
+      "posicion": "0.2099 0.2210 0.0225",
+      "group": "grp-1775788170865",
+      "visible": false
+    },
+    {
+      "id": "punto-de-acople-con-los-mecanismos-1775833773026",
+      "nombre": "Punto de Acople con los Mecanismos",
+      "descripcion": "Eje que transmite el movimiento a los mecanismos los cuales a su vez resuelven las misiones.",
+      "video": "",
+      "posicion": "0.1525 0.2541 0.1249",
+      "group": "grp-1775788187549",
+      "visible": false
+    },
+    {
+      "id": "motor-auxiliar-derecho-1775833796090",
+      "nombre": "Motor Auxiliar Derecho",
+      "descripcion": "Motor utilizado por el robot para generar el movimiento de todos los mecanismos que se conecten al robot en la plataforma en el lado derecho.",
+      "video": "",
+      "posicion": "0.1393 0.0364 0.1751",
+      "group": "grp-1775788187549",
+      "visible": false
+    },
+    {
+      "id": "motor-auxiliar-derecho-1775833814329",
+      "nombre": "Motor Auxiliar Derecho",
+      "descripcion": "Motor utilizado por el robot para generar el movimiento de todos los mecanismos que se conecten al robot en la plataforma en el lado izquierdo.",
+      "video": "",
+      "posicion": "0.1436 0.0342 -0.1722",
+      "group": "grp-1775788187549",
+      "visible": false
+    },
+    {
+      "id": "motor-base-derecho-1775833859042",
+      "nombre": "Motor Base Derecho",
+      "descripcion": "Es el motor instalado en el lado derecho del robot y encargado del desplazamiento del robot sobre el tapete.",
+      "video": "",
+      "posicion": "0.1879 -0.1405 0.1783",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "motor-base-izquierdo-1775833917176",
+      "nombre": "Motor Base Izquierdo",
+      "descripcion": "Es el motor instalado en el lado izquierdo del robot y encargado del desplazamiento del robot sobre el tapete.",
+      "video": "",
+      "posicion": "0.1879 -0.1401 -0.1750",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "rueda-derecha-1775833956994",
+      "nombre": "Rueda Derecha",
+      "descripcion": "Llanta instalada en la parte derecha del robot para el desplazamiento.",
+      "video": "",
+      "posicion": "0.2506 -0.1223 0.2333",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "rueda-izquierda-1775833985930",
+      "nombre": "Rueda Izquierda",
+      "descripcion": "Llanta instalada en la parte izquierda del robot para el desplazamiento.",
+      "video": "",
+      "posicion": "0.2508 -0.1253 -0.2347",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "anticamber-derecho-1775834387121",
+      "nombre": "Anticamber Derecho",
+      "descripcion": "Soporte externo ubicado en el lado derecho cuyo objetivo es evitar que las ruedas hagan camber (se inclinen hacia adentro o hacia afuera).",
+      "video": "",
+      "posicion": "0.1472 -0.1233 0.2829",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "anticamber-izquierdo-1775834442483",
+      "nombre": "Anticamber Izquierdo",
+      "descripcion": "Soporte externo ubicado en el lado izquierdo cuyo objetivo es evitar que las ruedas hagan camber (se inclinen hacia adentro o hacia afuera).",
+      "video": "",
+      "posicion": "0.1601 -0.1248 -0.2860",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "punto-de-apoyo-frontal-1775834489923",
+      "nombre": "Punto de Apoyo Frontal",
+      "descripcion": "Punto de apoyo para evitar que en la frenada el robot de un vuelco hacia adelante tipo carambola por la inercia y el peso, esto lo detiene.",
+      "video": "",
+      "posicion": "0.2761 -0.2500 0.0030",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "punto-de-apoyo-intermedio-1775834521281",
+      "nombre": "Punto de Apoyo Intermedio",
+      "descripcion": "Dispositivo utilizado para mantener el robot nivelado, se mantiene gracias a esta estructura totalmente horizontal ( ni inclinado hacia adelante, ni inclinado hacia atrás)",
+      "video": "",
+      "posicion": "-0.1633 -0.2227 0.0069",
+      "group": "grp-1775788178806",
+      "visible": true
+    },
+    {
+      "id": "punto-de-apoyo-trasero-1775834578961",
+      "nombre": "Punto de Apoyo Trasero",
+      "descripcion": "Punto de apoyo para evitar que al momento de acelerar el robot de un vuelco hacia atrás tipo caballito por la inercia y el peso, esto lo detiene.",
+      "video": "",
+      "posicion": "-0.2730 -0.2511 0.0001",
+      "group": "grp-1775788178806",
+      "visible": true
+    }
+  ],
+  "groups": [
+    {
+      "id": "grp-1775788159623",
+      "nombre": "Hub"
+    },
+    {
+      "id": "grp-1775788170865",
+      "nombre": "Plataforma de Acople"
+    },
+    {
+      "id": "grp-1775788178806",
+      "nombre": "Base Motriz"
+    },
+    {
+      "id": "grp-1775788187549",
+      "nombre": "Motores Auxiliares"
+    }
+  ]
+}
