@@ -8,7 +8,7 @@
       "id": "programación-en-python-1776436471456",
       "nombre": "Programación en Python",
       "descripcion": "Este año decidimos cambiar nuestro lenguaje de programación, pasamos de programar en bloques a programar en Python, un lenguaje que permite tener mayor control y precisión sobre los movimientos del robot, además de la creación de funciones para facilitar la programación a todos los integrantes del equipo, esto nos ayudó a mejorar la eficiencia y eficacia del robot y por consecuente nuestros resultados en el juego del robot.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987632/programacion_innovacion_ivm1rv.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -17,7 +17,7 @@
       "id": "movimiento-paralelo-1776437015287",
       "nombre": "Movimiento Paralelo",
       "descripcion": "Es una función creada por nosotros mismos en Python que permite al robot realizar dos movimiento a la vez, (por ejemplo: mover el motor auxiliar mientras gira hacia la derecha). Esto permite que a la hora de programar cada una de las lanzadas se ahorre tiempo y se puedan realizar combinaciones de movimiento que faciliten la programación también el completar cada una de las misiones.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987666/paralelo_innovacion_mtzh4h.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -35,7 +35,7 @@
       "id": "amns-(automatic-mission-navigation-system)-1776447022534",
       "nombre": "AMNS (Automatic Mission Navigation System)",
       "descripcion": "El AMNS permite que en el juego del robot, las misiones cuando finalicen cambien automáticamente a la siguiente, reduciendo el trabajo del lanzador para que se concentre únicamente en acomodar el robot y sus mecanismos, esto ahorra apróximadamente de 1 a 2 segundos entre cada lanzada, permitiéndonos ahorrar mucho tiempo que podemos usar para facturar más puntos.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987714/amns_innovacion_ddhqsg.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -44,7 +44,7 @@
       "id": "motores-de-fuerza-1776449052861",
       "nombre": "STAT (Scoring & Team Analytics Tool)",
       "descripcion": "STAT es un programa desarrollado por nosotros mismo que nos permite tener todas las herramientas necesarias para hacer simulaciones del juego del robot además de llevar un monitoreo continuo de los puntajes en cada lanzada. Además nos permite tener estadísticas, gráficas de rendimiento evaluando constantemente el rendimiento de los jugadores y de la estrategia del juego del robot. Así, logramos realizar cambios, mejorar misiones y llevar un control ordenado que nos permite avanzar y tener un objetivo claro de progreso basado en datos reales y especifícos.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987722/stat_innovaci%C3%B3n_gubbdt.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -53,7 +53,7 @@
       "id": "stat-(scoring-&-team-analytics-tool)-1776546423944",
       "nombre": "Motores de Fuerza",
       "descripcion": "Estos motores son más grandes de lo habitual, por lo tanto tienen un mayor torque y menor RPM. Aunque sacrificamos velocidad al usar estos motores, el incremento en la precisión que generan valen totalmente la pena, compensando la falta de velocidad, ya que podemos usar su máxima potencia sin perder eficiencia mejorando notablemente los resultados y la efectividad de las misiones en el juego del robot.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987721/motores_innovaci%C3%B3n_hzwtyt.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -62,7 +62,7 @@
       "id": "robot-compacto-1776802727194",
       "nombre": "Robot Compacto",
       "descripcion": "En la etapa de diseño de nuestro robot, como equipo llegamos a la decisión unánime de que un requisito indispensable sería que el modelo final fuera compacto. Esto no solo lo hace ver mejor estéticamente, sino que también mejora su funcionalidad y efeciencia en los giros, líneas rectas, etc. Ya que distribuye equitativamente su peso y además evita posibles atascamientos con misiones u obstáculos.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987721/compacto_innovacion_ksk4vn.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
@@ -71,7 +71,7 @@
       "id": "centro-de-masa-1776806012051",
       "nombre": "Centro de Masa",
       "descripcion": "El diseño de nuestro robot fue creado para que su centro de masa estuviera completamente en el centro del robot, distribuyendo equitativamente el peso de los motores, hub y fichas de unión para que su centro de masa coincidiera exactamente con la mitad del robot. Esto ayuda a que los giros sean más precisos y ocupen menos espacio, permite realizar giros en pivot (sobre el propio eje del robot) eficientes y rápidos, además de aumentar la precisión en línea recta y reversa.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776987715/centromasa_innovacion_mfiqby.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
