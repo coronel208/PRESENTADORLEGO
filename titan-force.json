@@ -26,7 +26,7 @@
       "id": "algoritmos-de-precisión-1776442591747",
       "nombre": "Algoritmos de Precisión",
       "descripcion": "Es una función implementada que contiene una fusión entre algoritmos PID (Proporcional-Integral-Derivativo), encoders, perfiles de velocidad y el giroscopio, que en conjunto corrigen la trayectoria del robot en movimiento, controlan trapezoidalmente la velocidad para evitar desvíos y miden la precisión en todo momento, permitiendo convertir de cada giro y línea recta un movimiento perfecto.",
-      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1776811399/Lanzada_1_akpsqv.mp4",
+      "video": "https://res.cloudinary.com/ddhyxaawd/video/upload/q_auto/f_auto/v1777057499/gp_innovaci%C3%B3n_byvil5.mp4",
       "posicion": "0 0 0",
       "group": "",
       "visible": false
